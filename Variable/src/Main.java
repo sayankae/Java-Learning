@@ -1,6 +1,7 @@
 public class Main {
     public int b = 50;
     static int c;
+
     public static void main(String[] args) {
         // Variables
         int a = 0;
