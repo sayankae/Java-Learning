@@ -9,3 +9,4 @@ Welcome to my GitHub repository where I document my journey learning Java! This 
 Here are some of the milestones and achievements in my Java learning journey:
 
 ### List of things I have learnt so far :
+- Variable
