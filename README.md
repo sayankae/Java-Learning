@@ -18,3 +18,5 @@ Here are some of the milestones and achievements in my Java learning journey:
 - Arrays 
   - 1-D Array
   - Multi-Dimensional Array
+  - Jagged Array
+- String
