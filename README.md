@@ -20,3 +20,5 @@ Here are some of the milestones and achievements in my Java learning journey:
   - Multi-Dimensional Array
   - Jagged Array
 - String
+  - String Builder
+  - String Methods
