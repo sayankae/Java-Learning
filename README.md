@@ -15,3 +15,6 @@ Here are some of the milestones and achievements in my Java learning journey:
 - Methods
   - Access Modifiers
   - Abstract vs Concrete Methods
+- Arrays 
+  - 1-D Array
+  - Multi-Dimensional Array
