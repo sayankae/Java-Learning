@@ -24,3 +24,11 @@ Here are some of the milestones and achievements in my Java learning journey:
   - String Methods
 - Control Statement 
   - If-Else
+  - Switch
+  - For Loop
+  - While Loop
+  - Do-While Loop
+  - For Each Loop
+  - continue
+  - break
+  - return
