@@ -39,8 +39,8 @@ public class _1DArray {
         System.out.println("Checking the Array is call by value or call by reference");
         //Traversing the Array
         for (int i = 0; i < arr.length; i++) {
-            System.out.println("Old value at index "+i+" was "+temp[i]);
-            System.out.println("New value at index "+i + " is "+arr[i]);
+            System.out.println("Old value at index " + i + " was " + temp[i]);
+            System.out.println("New value at index " + i + " is " + arr[i]);
         }
 
     }
