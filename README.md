@@ -10,6 +10,7 @@ Here are some of the milestones and achievements in my Java learning journey:
 
 ### List of things I have learnt so far :
 - Variable
+  - Type Casting
 - Operator
 - Methods
   - Access Modifiers
