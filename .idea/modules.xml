@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Learning.iml" filepath="$PROJECT_DIR$/.idea/Java-Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodTypes/MethodTypes.iml" filepath="$PROJECT_DIR$/MethodTypes/MethodTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperatorTypes/OperatorTypes.iml" filepath="$PROJECT_DIR$/OperatorTypes/OperatorTypes.iml" />
