@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Learning.iml" filepath="$PROJECT_DIR$/.idea/Java-Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodTypes/MethodTypes.iml" filepath="$PROJECT_DIR$/MethodTypes/MethodTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperatorTypes/OperatorTypes.iml" filepath="$PROJECT_DIR$/OperatorTypes/OperatorTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variable/Variable.iml" filepath="$PROJECT_DIR$/Variable/Variable.iml" />
     </modules>
   </component>
