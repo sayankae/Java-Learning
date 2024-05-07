@@ -4,7 +4,7 @@ public class Strings {
         s = new String("New Hello");
     }
 
-    public static void main(Strings[] args) {
+    public static void main(String[] args) {
         //String Initialisation
         String str = "Hello";
 
@@ -17,7 +17,7 @@ public class Strings {
         checkCallByRef(str);
 
         if (str1.equals(str)) {
-            System.out.println("It is not call by value");
+            System.out.println("It is call by reference due to it immutable nature only copy of its reference is passed");
         } else {
             System.out.println("It is call by reference");
         }
