@@ -26,6 +26,8 @@ public class Polymorphism {
         System.out.println("Creating a child class which extends Polymorphism Class with its own Area method");
         Rectangle rect = new Rectangle(5, 4);
         System.out.println("Area of Rectangle l  5 , h  4 = " + rect.Area());
+        System.out.println("Operator overloading using + "+" Here using two numerical 2 and 3 it gives "+(2+3));
+        System.out.println("Now using two character '2' + '3' we get "+'2'+'3');
     }
 }
 
