@@ -44,3 +44,7 @@ Here are some of the milestones and achievements in my Java learning journey:
 - Polymorphism 
   - Overloading
   - Overriding 
+- Abstraction
+  - Interface
+  - Abstract Class
+  - Abstract Method
