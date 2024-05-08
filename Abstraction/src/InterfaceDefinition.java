@@ -1,4 +1,5 @@
 interface Parent {
+    //method inside interface are abstract
     void displayParent();
 }
 
