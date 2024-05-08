@@ -33,3 +33,11 @@ Here are some of the milestones and achievements in my Java learning journey:
   - break
   - return
 - Class
+  - Class Definition 
+  - Final Class
+  - Static Class
+  - Abstract Class
+  - Concrete Class
+  - POJO Class
+  - Singleton Class
+  - Inner Class
