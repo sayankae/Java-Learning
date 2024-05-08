@@ -48,3 +48,8 @@ Here are some of the milestones and achievements in my Java learning journey:
   - Interface
   - Abstract Class
   - Abstract Method
+- Inheritance
+  - Single
+  - Multilevel
+  - Hierarchy 
+  - Multiple (With Interface)

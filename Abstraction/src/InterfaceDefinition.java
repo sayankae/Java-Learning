@@ -36,7 +36,6 @@ class Sunny implements Child {
 }
 
 
-
 public class InterfaceDefinition {
     public static void main(String[] args) {
         Sunny sunny = new Sunny();

@@ -1,12 +1,12 @@
-abstract class NewChild implements Parent{
+abstract class NewChild implements Parent {
     abstract void display();
 
-    interface Node{
+    interface Node {
         void display();
     }
 }
 
-public class AbstractClass extends NewChild{
+public class AbstractClass extends NewChild {
 
 
     @Override
@@ -19,14 +19,14 @@ public class AbstractClass extends NewChild{
         System.out.println("This method was in Abstract Class");
     }
 
-    static class NewNode implements Node{
+    static class NewNode implements Node {
         @Override
         public void display() {
             System.out.println("Implemented Node from Node Interface.");
         }
     }
 
-    public static void main(String []args){
+    public static void main(String[] args) {
         AbstractClass obj = new AbstractClass();
         obj.display();
         obj.displayParent();
