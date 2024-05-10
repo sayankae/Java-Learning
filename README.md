@@ -13,6 +13,7 @@ Here are some of the milestones and achievements in my Java learning journey:
   - Type Casting
 - Operator
 - Methods
+  - Encapsulation 
   - Access Modifiers
   - Abstract vs Concrete Methods
 - Arrays 
@@ -53,3 +54,9 @@ Here are some of the milestones and achievements in my Java learning journey:
   - Multilevel
   - Hierarchy 
   - Multiple (With Interface)
+- Exception Handling
+  - Checked and Unchecked Exception 
+  - Try-Catch
+  - Throw
+  - Throws
+  - Custom Exception
