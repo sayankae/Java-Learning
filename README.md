@@ -57,6 +57,7 @@ Here are some of the milestones and achievements in my Java learning journey:
 - Exception Handling
   - Checked and Unchecked Exception 
   - Try-Catch
+  - Finally
   - Throw
   - Throws
   - Custom Exception
