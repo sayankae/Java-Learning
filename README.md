@@ -61,3 +61,4 @@ Here are some of the milestones and achievements in my Java learning journey:
   - Throw
   - Throws
   - Custom Exception
+  - Cause
