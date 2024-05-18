@@ -11,19 +11,19 @@ Here are some of the milestones and achievements in my Java learning journey:
 ### List of things I have learnt so far :
 - [Variable](Abstraction/src/)
   - Type Casting
-- Operator
-- Methods
+- [Operator](OperatorTypes/src/)
+- [Methods](MethodTypes/src/)
   - Encapsulation 
   - Access Modifiers
   - Abstract vs Concrete Methods
-- Arrays 
+- [Arrays](Array/src/) 
   - 1-D Array
   - Multi-Dimensional Array
   - Jagged Array
-- String
+- [String](Strings/src/)
   - String Builder
   - String Methods
-- Control Statement 
+- [Control Statement](ControlStatement/src/) 
   - If-Else
   - Switch
   - For Loop
@@ -33,7 +33,7 @@ Here are some of the milestones and achievements in my Java learning journey:
   - continue
   - break
   - return
-- Class
+- [Class](ClassTypes/src/)
   - Class Definition 
   - Final Class
   - Static Class
@@ -42,19 +42,19 @@ Here are some of the milestones and achievements in my Java learning journey:
   - POJO Class
   - Singleton Class
   - Inner Class
-- Polymorphism 
+- [Polymorphism](Polymorphism/src/) 
   - Overloading
   - Overriding 
-- Abstraction
+- [Abstraction](Abstraction/src/)
   - Interface
   - Abstract Class
   - Abstract Method
-- Inheritance
+- [Inheritance](Inheritance/src/)
   - Single
   - Multilevel
   - Hierarchy 
   - Multiple (With Interface)
-- Exception Handling
+- [Exception Handling](ExceptionHandling/src/)
   - Checked and Unchecked Exception 
   - Try-Catch
   - Finally
@@ -62,4 +62,4 @@ Here are some of the milestones and achievements in my Java learning journey:
   - Throws
   - Custom Exception
   - Cause
-- Multithreaded Programming
+- [Multithreaded Programming](MultithreadedProgramming/src/)
