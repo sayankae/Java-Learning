@@ -17,7 +17,7 @@ Here are some of the milestones and achievements in my Java learning journey:
   - Access Modifiers
   - Abstract vs Concrete Methods
 - [Arrays](Array/src/) 
-  - 1-D Array
+  - 1D Array
   - Multi-Dimensional Array
   - Jagged Array
 - [String](Strings/src/)
