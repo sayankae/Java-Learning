@@ -3,27 +3,31 @@
 </h1>
 
 ## Introduction
-Welcome to my GitHub repository where I document my journey learning Java! This repository serves as a digital notebook and a portfolio showcasing my progress as I delve into the depths of one of the most versatile and widely used programming languages in the world. From basic concepts to advanced programming techniques, this repo is my path to mastering Java. Whether you're a fellow learner or just curious about my progress, feel free to explore the notes and code examples. Let's learn together!
+Welcome to my GitHub repository where I document my journey learning Java! This repository serves as a digital notebook and a portfolio showcasing my progress as I delve into the depths of one of the most versatile and widely used programming languages in the world.
+
+From basic concepts to advanced programming techniques, this repo is my path to mastering Java. Whether you're a fellow learner or just curious about my progress, feel free to explore the notes and code examples. Let's learn together!
+
+---
 
 ## Achievements
 Here are some of the milestones and achievements in my Java learning journey:
 
-### List of things I have learnt so far :
-- [Variable](Variable/src/)
+### List of Things I Have Learnt So Far:
+- [**Variable**](Variable/src/)
   - Type Casting
-- [Operator](OperatorTypes/src/)
-- [Methods](MethodTypes/src/)
-  - Encapsulation 
+- [**Operator**](OperatorTypes/src/)
+- [**Methods**](MethodTypes/src/)
+  - Encapsulation
   - Access Modifiers
   - Abstract vs Concrete Methods
-- [Arrays](Array/src/) 
+- [**Arrays**](Array/src/)
   - 1D Array
   - Multi-Dimensional Array
   - Jagged Array
-- [String](Strings/src/)
+- [**String**](Strings/src/)
   - String Builder
   - String Methods
-- [Control Statement](ControlStatement/src/) 
+- [**Control Statement**](ControlStatement/src/)
   - If-Else
   - Switch
   - For Loop
@@ -33,8 +37,8 @@ Here are some of the milestones and achievements in my Java learning journey:
   - continue
   - break
   - return
-- [Class](ClassTypes/src/)
-  - Class Definition 
+- [**Class**](ClassTypes/src/)
+  - Class Definition
   - Final Class
   - Static Class
   - Abstract Class
@@ -42,24 +46,28 @@ Here are some of the milestones and achievements in my Java learning journey:
   - POJO Class
   - Singleton Class
   - Inner Class
-- [Polymorphism](Polymorphism/src/) 
+- [**Polymorphism**](Polymorphism/src/)
   - Overloading
-  - Overriding 
-- [Abstraction](Abstraction/src/)
+  - Overriding
+- [**Abstraction**](Abstraction/src/)
   - Interface
   - Abstract Class
   - Abstract Method
-- [Inheritance](Inheritance/src/)
+- [**Inheritance**](Inheritance/src/)
   - Single
   - Multilevel
-  - Hierarchy 
+  - Hierarchy
   - Multiple (With Interface)
-- [Exception Handling](ExceptionHandling/src/)
-  - Checked and Unchecked Exception 
+- [**Exception Handling**](ExceptionHandling/src/)
+  - Checked and Unchecked Exception
   - Try-Catch
   - Finally
   - Throw
   - Throws
   - Custom Exception
   - Cause
-- [Multithreaded Programming](MultithreadedProgramming/src/)
+- [**Multithreaded Programming**](MultithreadedProgramming/src/)
+
+---
+
+Feel free to dive into each section to see detailed notes and code examples. **Happy coding!**
