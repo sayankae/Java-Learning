@@ -38,7 +38,6 @@ class Sunny implements Child {
 
 public class InterfaceDefinition {
     public static void main(String[] args) {
-        Sunny sunny = new Sunny();
         Sunny.Talent child = new Child.Talent("Writing Poems.");
         System.out.println(child);
     }
